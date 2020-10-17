@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
 title: "Welcome to our slide!"
 ---
 This is harshat Munnangi slide
